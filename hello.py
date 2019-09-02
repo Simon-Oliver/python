@@ -1,4 +1,6 @@
-name = ['Donna', 'Rachel', 'Harvey', 'Mike']
+import csv
 
-for person in name:
-    print('Hello ' + person)
+with open('dummyData.csv', mode='r') as dummyData:
+    csv_reader = csv.reader(dummyData, delimiter=",")
+    for row in csv_reader:
+        print(row)

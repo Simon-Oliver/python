@@ -8,6 +8,14 @@ class Dog(Mammal):
         print('WOOOF')
 
 
+class Cat(Mammal):
+    def meow(self):
+        print('Meow')
+
+
 rex = Dog()
+snowball = Cat()
 
 rex.walk()
+snowball.meow()
+snowball.walk()

@@ -1,4 +1,8 @@
 from pathlib import Path
 
-path = Path('email')
-path.rmdir()
+path = Path()
+
+allPy = path.glob('*.py')
+
+for file in allPy:
+    print(file)

@@ -1,6 +1,7 @@
 from requests import get
 from bs4 import BeautifulSoup
 
+
 url = 'https://www.saveur.com/plum-galette-recipe/'
 
 response = get(url)
@@ -13,12 +14,12 @@ recipe = {
 }
 
 recipe['title'] = html.find('h1', class_='article_title').text
+print(html.find_all('section', class_='content'))
 
-content = html.find('section', class_='content')
-img_url = content.find('img', class_='image')['src']
+file_name = recipe['title'].replace(' ', '_')
 
-f = open('00000001.jpg', 'wb')
-f.write(get(img_url).content)
-f.close()
+# f = open(file_name + '.txt', 'w+')
+# f.write(str(recipe))
+# f.close()
 
 print(recipe)

@@ -1,25 +1,41 @@
 from requests import get
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.common.action_chains import ActionChains
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as ec
 
+geckodriver = '/Users/Simon/Desktop/Coding/python/geckodriver'
+url = "https://www.saveur.com/vietnamese-daikon-carrot-pickles-recipe/"
 
-url = 'https://www.saveur.com/plum-galette-recipe/'
+options = webdriver.FirefoxOptions()
+options.add_argument('-headless')
 
-response = get(url)
-html = BeautifulSoup(response.content, 'html.parser')
+browser = webdriver.Firefox(executable_path=geckodriver, firefox_options=options)
+browser.get(url)
+ele = browser.find_element_by_class_name('element-rawhtml')
+print(ele)
 
-recipe = {
-    'title': '',
-    'ingredients': [],
-    'instructions': []
-}
+# content = browser.page_source
 
-recipe['title'] = html.find('h1', class_='article_title').text
-print(html.find_all('section', class_='content'))
+browser.quit()
 
-file_name = recipe['title'].replace(' ', '_')
+# html = BeautifulSoup(content, 'html.parser')
+
+# recipe = {
+#     'title': '',
+#     'ingredients': [],
+#     'instructions': []
+# }
+#
+# recipe['title'] = html.find('h1', class_='article_title').text
+# print(html.find_all('section', class_='content'))
+
+# file_name = recipe['title'].replace(' ', '_')
 
 # f = open(file_name + '.txt', 'w+')
 # f.write(str(recipe))
 # f.close()
 
-print(recipe)
+# print(recipe)

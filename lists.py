@@ -1,6 +1,26 @@
-list = [2, 10, 60, [5,6,7]]
-list[2] = 100
+# total = 0
+# count = 0
+#
+# while True:
+#     inp = input('Enter a number: ')
+#     if inp == 'done':
+#         break
+#     value = float(inp)
+#     total = total + value
+#     count = count + 1
+#
+#
+# average = total / count
+# print('Average:', average)
 
+numlist = []
 
+while True:
+    inp = input('Enter a number: ')
+    if inp == 'done':
+        break
+    value = float(inp)
+    numlist.append(value)
 
-print(list[1:])
+average = sum(numlist) / len(numlist)
+print(average)

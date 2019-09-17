@@ -12,7 +12,7 @@ email = []
 
 for line in fhand:
     line = line.rstrip()
-    if line.startswith('From:'):
+    if line.startswith('From: '):
         email.append(line.strip('From: '))
     count += 1
 

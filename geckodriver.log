@@ -783,3 +783,9 @@ JavaScript warning: https://z.moatads.com/bonnierdfp429068524616/moatad.js#moatC
 [Child 5691, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
 [Child 5691, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.error: PushService: 
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+  Failed to drop expired registrations on idle
+  UnknownError

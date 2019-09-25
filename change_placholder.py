@@ -1,25 +1,46 @@
 import re
 
-obj = {
+obj = [
+{
     "name": 'Max',
     "employer": 'Disneyland',
     "email": 'max@test.com'
+},
+{
+    "name": 'Oli',
+    "employer": 'Apple',
+    "email": 'oli@test.com'
+},
+{
+    "name": 'James',
+    "employer": 'Microsoft',
+    "email": 'james@test.com'
+},
+{
+    "name": 'Sarah',
+    "employer": 'Target',
+    "email": 'sarah@test.com'
 }
+]
 
 
-message = '''
+msg = '''
 Hi {name},
 This is a test message.
-This was sent to {email} from the company {employer}.
+This was sent to {email} from {employer}.
 '''
 
-msg = ''
 
-data = re.findall('{(\w*)}', message)
+def replace(message, placeholders):
+    msg = message
+    data = re.findall('{(\w*)}', message)
+    for item in data:
+        string = '{' + item + '}'
+        msg = msg.replace(string, placeholders[item])
 
-for item in data:
-    string = '{' + item + '}'
-    message = message.replace(string, obj[item])
+    return msg.strip()
 
-print(message)
+
+for person in obj:
+    print(replace(msg, person))
 

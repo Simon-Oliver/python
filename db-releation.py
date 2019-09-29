@@ -1,42 +1,26 @@
-import xml.etree.ElementTree as ET
 import sqlite3
 
-# connect = sqlite3.connect('tracks.db')
-# db = connect.cursor()
+connect = sqlite3.connect('sqlexploration.db')
+db = connect.cursor()
 
-# db.executescript('''
-# DROP TABLE IF EXISTS Artist;
-# DROP TABLE IF EXISTS Album;
-# DROP TABLE IF EXISTS Track;
+db.execute('CREATE TABLE IF NOT EXISTS Task (id INTEGER PRIMARY KEY AUTOINCREMENT, title STRING, user_id INTEGER)')
+db.execute('CREATE TABLE IF NOT EXISTS User (id INTEGER PRIMARY KEY AUTOINCREMENT, name STRING, task_id INTEGER)')
 
-# CREATE TABLE Artist (
-#     id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-#     name TEXT UNIQUE
-# );
+user = ''
+task = ''
+new_task = True
 
+while True:
+    while len(user) < 1:
+        user = input('Please enter username: ')
 
-# CREATE TABLE Album (
-#     id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-#     title TEXT UNIQUE,
-#     artist_id INTEGER
-# );
+    while len(task) < 1:
+        task = input('Enter Task: ')
 
-# CREATE TABLE Track (
-#     id  INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT UNIQUE,
-#     title TEXT UNIQUE,
-#     album_id INTEGER,
-#     len INTEGER
-#     rating INTEGER,
-#     count INTEGER
-
-# );
-# ''')
-
-fhandle = open('./code3/tracks/Library.xml')
-
-
-def lookup(data, key):
-    found = False
-    for child in data:
-        if found:
-            print(child.TEXT)
+    db.execute('INSERT OR IGNORE INTO User (name) VALUES (?)', (user,))
+    db.execute('SELECT id FROM User WHERE name=?', (user,))
+    connect.commit()
+    user_id = db.fetchone()[0]
+    user = ''
+    task = ''
+    print(user_id)

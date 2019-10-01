@@ -16,26 +16,25 @@ email TEXT,
 gender_id INTEGER,
 university_id INTEGER,
 department_id INTEGER,
-course_id INTEGER)
+unit_id INTEGER)
 ''')
 
 db.execute('CREATE TABLE IF NOT EXISTS Gender (id INTEGER PRIMARY KEY AUTOINCREMENT, gender TEXT UNIQUE)')
 db.execute('CREATE TABLE IF NOT EXISTS University (id INTEGER PRIMARY KEY AUTOINCREMENT, university TEXT UNIQUE)')
 db.execute('CREATE TABLE IF NOT EXISTS Department (id INTEGER PRIMARY KEY AUTOINCREMENT, department TEXT UNIQUE)')
-db.execute('CREATE TABLE IF NOT EXISTS Course (id INTEGER PRIMARY KEY AUTOINCREMENT, course TEXT UNIQUE)')
+db.execute('CREATE TABLE IF NOT EXISTS Unit (id INTEGER PRIMARY KEY AUTOINCREMENT, unit TEXT UNIQUE)')
 
-with open('MOCK_DATA.csv', mode='r') as csv_file:
+with open('MOCK_DATA1.csv', mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     line_count = 0
     for row in csv_reader:
         if line_count is 0:
             line_count += 1
 
-        print(row['course'])
         # Create/Select course_id
-        db.execute('INSERT OR IGNORE INTO Course (course) VALUES (?)', (row['course'],))
-        db.execute('SELECT id FROM Course WHERE course=?', (row['course'],))
-        course_id = db.fetchone()[0]
+        db.execute('INSERT OR IGNORE INTO Unit (unit) VALUES (?)', (row['unit'],))
+        db.execute('SELECT id FROM Unit WHERE unit=?', (row['unit'],))
+        unit_id = db.fetchone()[0]
 
         # Create/Select department_id
         db.execute('INSERT OR IGNORE INTO Department (department) VALUES (?)', (row['department'],))
@@ -53,8 +52,8 @@ with open('MOCK_DATA.csv', mode='r') as csv_file:
         gender_id = db.fetchone()[0]
 
         #Create Student
-        db.execute('INSERT OR IGNORE INTO Student (s_id, first_name, last_name, email, gender_id, university_id, department_id, course_id) VALUES (?, ?, ?, ?, ?, ?,?, ? )',
-                   (row['id'], row['first_name'], row['last_name'], row['email'], gender_id, university_id, department_id, course_id))
+        db.execute('INSERT OR REPLACE INTO Student (s_id, first_name, last_name, email, gender_id, university_id, department_id, unit_id) VALUES (?, ?, ?, ?, ?, ?,?, ? )',
+                   (row['id'], row['first_name'], row['last_name'], row['email'], gender_id, university_id, department_id, unit_id))
         line_count += 1
         print(line_count)
         connect.commit()

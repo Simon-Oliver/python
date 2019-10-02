@@ -23,6 +23,8 @@ db.execute('CREATE TABLE IF NOT EXISTS Gender (id INTEGER PRIMARY KEY AUTOINCREM
 db.execute('CREATE TABLE IF NOT EXISTS University (id INTEGER PRIMARY KEY AUTOINCREMENT, university TEXT UNIQUE)')
 db.execute('CREATE TABLE IF NOT EXISTS Department (id INTEGER PRIMARY KEY AUTOINCREMENT, department TEXT UNIQUE)')
 db.execute('CREATE TABLE IF NOT EXISTS Unit (id INTEGER PRIMARY KEY AUTOINCREMENT, unit TEXT UNIQUE)')
+db.execute('CREATE TABLE IF NOT EXISTS Member (role INTEGRER, student_id INTEGER, unit_id INTEGER, PRIMARY KEY (student_id, unit_id) )')
+
 
 with open('MOCK_DATA1.csv', mode='r') as csv_file:
     csv_reader = csv.DictReader(csv_file)

@@ -7,5 +7,4 @@ def ocr_core(filename):
     text = pytesseract.image_to_string(Image.open(filename))
     return text
 
-
 print(ocr_core('IMG_9988.jpeg'))

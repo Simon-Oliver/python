@@ -1065,3 +1065,286 @@ JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to cr
 JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
 JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
 * Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://static.adsafeprotected.com/main.19.8.47.js, line 306: TypeError: d is undefined
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/369669/42803228/dcm/dcmads.js, line 1145: TypeError: d is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/369669/42803228/dcm/dcmads.js, line 1145: TypeError: h is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/369669/42803228/dcm/dcmads.js, line 1145: TypeError: h is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/369669/42803228/dcm/dcmads.js, line 1145: TypeError: h is undefined
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html, line 8: ReferenceError: osdlfm is not defined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://dco-assets.everestads.net/ics-campaign//5031/t/7518/2/OneDriveOrganize/O365_NewYearCampaign_USA_300x250_BAN_OneDrive_Organize_English_NA_NA_ANI_NA_NA_1.htm, line 183: TypeError: exportRoot.initBanner is not a function
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126503815&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126503815&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126503815&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126503815&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/5980224/1576700427268/970x90/index.js?1572470589883, line 597: TypeError: this.Play is not a function
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 79645, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 79645, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13587467_324879358/Banner_728x90/Banner_728x90.js, line 647: TypeError: this.replay_btn is undefined
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13587467_324879358/Banner_728x90/Banner_728x90.js, line 647: TypeError: this.replay_btn is undefined
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638491_1220875287/Citibank_Q4_COS_Set01_HTML5_728x90/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript error: https://googleads.g.doubleclick.net/dbm/ad?dbm_c=AKAmf-BzgUvuw2V4it9qEj1PMiCYmRSOoIvfGnqDhmMDGv6kwep4mY599YYXV3lyfWpb524VTxVsVd02IPxyP5hPfcDBgB9ntA&dbm_d=AKAmf-AJXZPKErG6tDoHF8w6Qvu5qURHhYIzcZVL2dy0xXNZoxqJEKXQF1ETCMBSr1NLY8xQo7jarO5LoywUHR6N8uRoLOcHIFvi7zcFJfx5uN_JEFzdJRtVlYRCn1Xb_i-LIaEyKauQXphm9vsy7vVmPJ-d90JOv6ap75c6OJ1N2I6xkFg6HtEULmCWJDGUl9mLWvC_zrMrUxJ4tSHNj8eISSQtMN1r4WfSviJgNASgrfgYjuqKhWV4pj2Q0yFSzfznQGE5nHEse9iPij7Cukj7u03I7B_ya2rzGvJhF74XUhsk-6RXotg5FjxlhBhX0H5Zcati0oJSwC4tOwYUfkrBIoPQqPFucH9Xetgzr_balbONEljfdDCGZ1YitcLpU1BxU4H_V7BjIP3iaQvElEvhefUTBi7x_aLDMT7Hx0P2I3ASKcJ_IgBguTyS0lk0FYGJuPWdyRcvZAs3fS780AV31LbFt-A90tBMN-V-spoK6jhZiyzkh1MoL2ttaEOxAwwfqoFWWHboNdYSAk696nZlJok6xM0EJXl3l-wo9DfgxpFaSYOnXcWAe5FQ54yyr3p1TxjBIV4oPVPf0xHL6wqV7YR1CaGQ6RH2pKCzs2UQBDiVD33qd5o9rMPSyvWeisxt-bP4TLy4633gbdyZgDG3t99SRjbAtK-XC6zmk7hLOQenvFcXVTPlt5XUtPU_VDCi-PyTgCgOEz9tH4jKXFdM5D7dl0p8LGV6h9_pA4g2V6SScA4VraR-Y5CqtzdK7k_IoTN7_s4TULhdKH9elZPlNgm-ZrULkJjCIMwcCdphiEY4yNcIYlU9flho5xqdrv7l_aM6G9ATctw-2IfMK7tY7VAsScXFhMc8Wj8fKnT5x09yz0VC_X0MJQGIAmxLWTE7hHeLH8UwHlKHvgtv7oNyAsoyapLJbfNhXtqx3mHrkxatU21pu94dVVtnePR1dmaz4RPUsp_k9iOR1yAwE4s1fZKaEC7GYJ5wa-j4C7Fl0Iu5DELaN2dpA6_uHnZn_RNeAc2dFigmxH8Yk3GQ-Kbj8lEyCk8PIEeYXfz3KtVN_eQEsV5YlBhGiyfGXAz-Fs3_dLqUngQjTDLQI1HlXIKbc6KkiFEBDtot3cDm3upOeboyAEWnqvcvJt_tEy_4RuHk9lK6Abvf01Z0Jpd2yktJLr31RnmiyopD2jnkET12iagUFQgBEIYZL9FtBczBWV3AGVHKKtNsStQDCTQbbrcJIpZsGCTW_yDpRBGaNMeJ-iI9CjpzibKXjs4PbtM8FWWdyhDlEKHGsLmC-DqYcimd3mBpDug_G42SOCma2U3k4sA4hmlkMku1Dhxz33aMsrXIFat7xzRNdwzWc0C3uAHftoiG4NSyu2p3uICLswXYpm6GSaAuNoBAsrzCgx-eo9b0WeWOPEGaBPx_RTcK5Rn2R3t7QuAYiymY1ZJPRT0giXuzX0o1B0dzueoJ2nCyEPzfFl4j-JIxc7m8jxd9eR_tm3q6ViRH-RXqFcGX0YMtiT4q2ozbO3-dNKyM_J90FBYN25xpiAP7WV60vw-bjQIHQFKs32kiG33mIHAUo24r5dWrO4ElvqBc6SB9KUQlZYNKkJw6yVb4e5zLpkrsO2rZRI_XdzZ2S0NtCEwXr3DwEaDcwNvjQoKcqV2ABUgKfEJwbgmLDrlBSwQ_Ns2kBE8qUYxid1ZxYQvTV40tcfDQcHYJXi55SU6RerMbDfW9RDPowePoRlZ-NYNacBF8nAVemQYuXInurfVpEdMEShnOSZxXfaTlGt7d-2pPduixio72xeUp3TlxTWzZEt4jiurH6bz-y5a0t1eMdWJ1h1CYEiC3zWHzuQY2TTSEH9a7oprZpk3dnt1lUUD3JTqzvWlXd0nUmJMWCsdVPqO-Ek_aJwLiR39xnAJccaXXFy9OJzNrmsxR6NEyW4ncEwkFxvUrP0smkIFjL1mLnqNkT33ZaYy8dTl4zadEYt-DZdpqwxYWwcx_E2bqb73xDH2Pn0hH_qANxgIUcI97s_AT5FGQ7HEL0WdKnmsYiT-gGZYBMxHwim2H7BRSFlTri6RW19-wn8yZSIf63uVYu4SLVBKGGj4sYVspNG5rJgUs6g0cBrbk9wtH29G_kigRtK--RTuPfaAlKIAEeh2YVxMVFPgwseb_cxYyGBshrFKX8yvJxpcrrNwTocgttxfGzdOWrsZBCJBPW0j4MWVR8qfMfab81XE6ntyJpcq1Bg9itsT0r0PeGRvRQwwLp01jvXfUs1cvD2RQBSoMsq1LLQ8BBl5azVfS5Q3_DIUuxgIp8RQRQsboHj5RL-iZxoltByTZDs67M_3mm3naOU7MU1ynZsgUNZB5L9_fcIoaAq4eq5IzVguYxYO9Dp6UmoGRMcppPMVzaD4kvM378n8hh76dgZduZBKlxnHNjX5PUFBGXkBOPODKlSEAwzYUmoqKfo7bQNVp9l1A9lXugLY6C5PsdnEezr_0lDksxagEDpezaQAJzIyvvbkhlfjBPzCTxZz-OEz8jzNAzSB85z-mfBQrfEehkd5TiL8XThhm82zBbTf3LWlryI8SWqaGpKtWxHV6L5sfgZS42l1Nsp1xKmyneztKcsW2USPABaYFTs8uZXbXbrqqTYBH-gI1KR0EgWfqqtsCYh0jtA88Ti0bmo9JbpgqcwZZzf65h8SHFWlSGACjy_l_gsm8VLib1lvzzp50vYuyYveXTKXZPM2zNbf-XQl3NmQGf26NMXvZYlkKznw6vp6noWRtCqD07HPtFGXFEbh65OxxUFnO3vldq8vmmqU6Ac5Th5X_DPw&cid=CAASEuRo1sQ3ZkUeLrElBYRpxgZ9ww, line 1: SyntaxError: invalid escape sequence
+[Parent 79688, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228693&moatClientLevel3=68725&moatClientLevel4=4117649934&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=184310, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228693&moatClientLevel3=68725&moatClientLevel4=4117649934&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=184310, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228693&moatClientLevel3=68725&moatClientLevel4=4117649934&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=184310, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228693&moatClientLevel3=68725&moatClientLevel4=4117649934&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=184310, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638452_1581535270/Citibank_Q4_COS_Set01_HTML5_300x250/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 79688, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638452_1581535270/Citibank_Q4_COS_Set01_HTML5_300x250/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020013001.js?21065535, line 6: TypeError: a is undefined
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=222102&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=222102&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=222102&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=222102&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13587467_324879358/Banner_728x90/Banner_728x90.js, line 647: TypeError: this.replay_btn is undefined
+JavaScript error: https://fw.adsafeprotected.com/rjss/www.googletagservices.com/382929/41938415/dcm/dcmads.js?adsafe_preview=${IS_PREVIEW}, line 966: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: https://securepubads.g.doubleclick.net/gpt/pubads_impl_2020013001.js, line 6: TypeError: a is undefined
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.flashtalking.com/frameworks/js/api/2/10/html5API.js, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://tpc.googlesyndication.com/safeframe/1-0-37/html/container.html, line 59: ReferenceError: osdlfm is not defined
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/8491270/1580310258868/35691_Chubb_v8a-martialarts_970x250/35691_Chubb_v8a-martialarts_970x250.html, line 177: TypeError: document.getElementById(...) is null
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://time.is/, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=eyFPqqcVNV&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+[Parent 79712, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638452_1581535270/Citibank_Q4_COS_Set01_HTML5_300x250/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=103323&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is/&zMoatSEID=11751, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=8j0WYsQ84T&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61184466/20190721220035198/index.html?e=69&leftOffset=0&topOffset=0&c=PwjF6eprK2&t=1&renderingType=2, line 545: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=PaPhSdTiXH&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61184466/20190721220035198/index.html?e=69&leftOffset=0&topOffset=0&c=STqeIpLPRc&t=1&renderingType=2, line 545: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61184466/20190721220035198/index.html?e=69&leftOffset=0&topOffset=0&c=iCzjd0rGWQ&t=1&renderingType=2, line 545: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://fw.adsafeprotected.com/rjss/bgd/377591/41557632/xbbe/creative/adj?p=APEucNXasjFlBxrIgj4e9Q7uc1-U68McSO8KlJVGpc1q0gyzLxb3gOY&d=CkkAoCZ_4Fmgmddjj1pozqcIcMDCs0gnwB4pqu55qC6wpDyYK0mTk82gFVgUpV6r26YBa1Q31-i_ZXvZWpLtNuBELhfHeMnnYkYiEukPAKAmf-BtMZkEb4e6jmiya0RFsaLXivkyggzncfedLw2YcxbgWMpOk-I_jNWpFYK8_h0PnGu6Q7wq3ga71C1nBzG7SA3fubsP7_mbeDPcjmlj-X-VEEaDkJ61_ePKphx7BVGhFMJs5oido48zp3PaiWfm3Mxxf1myggavyLcyN_O1kSLIc2mXQ52Y1kQ9XaRyez7twTbmGpMD7aEC074xtYPtUfOxepOTj-VIh_gXFXCfZj9ABemSlf3oNBm2x0oY7Wm-iCbip9le7cRZhAYgxasiUU2eUTkkiLdANDlngO5Ksug-WD-qZDl8kQl7GHYhYHgeAmnNXgqsdl58Wf3H55_VJCW6Qt0zJwE_aWscDgl-nDEoMPBKE7NyIEsW6am94edvClwRu7vYWVmBAUXeCE9wF0VDpYYTNGSuQferIpPRe-QF-xBDY3o-uEZfk54LV8R-Udc_7o75wcjHZrgw27x9bNrjYVvJNdqJqKDlGJAsd2YY-oyLJM1PzqRotJjwkymzENP86FZTtGs8qBBlnA91_GxbYE5Fu9eAYQUeKYbzPK_f9_BY5zOoJPYE3c8x68RjB0nKGfncXMF8MS6qRIw1jRnZTU-1tICsZK114gwPZYFygrjqUHwMkKtsaE_Cpo61Z9pAKGdZGKAF3Rmp6VP4K3GbpnW72j9v_R4FT9l8TCWh5dGfOCXgYGFrd51BKY20pnXbCzvsKrpArbUvpOdIxGCvNE7_ej3LWlmVMSEEusk9B7rvzuRvGeJbjr7IZU9MafZIC3oT8ybPsiKBNDSdxWyQQSqEmU4RfFnVlyjr-S8b6-uqe3oFJ8AzDvHuOOIsMiyUu66NYsSvrefjnneT5lxTcmvmBm9MEKIo6XUBwEqU0GBWRvPsoxzJvHx2rHrTYBfO6rA9jlamJmPU4U_TBCKbbND2jyNOfiFNT-yZRpIFCvVGmJ8hAnPrQg4k6DHwWXtPWBeqImIoapp_GeYv0yq25qsaKHqJuto_V7FlGA4BKmapwIBq0zPkeMrkPcMMEazyiJT6gZVQTl-_CXfJiHrig0rlaKkwSKMquCJLjXcqGXHyYfubcrTHfjlfNKqOu9NsDyO3EnvVSQcZqEfr2Iql3ej66cy8OsHqYhcOAnTpC--IUsc3E8R1-KV-zB2LzY7ZjVE4aODeqcIOVigey_rbNEf-Bubv-PszC72WoI_j6KgQ6x3QKNdheTuWRxhJnwqzn8F4QIH09QwA8vwJlLb2CXznJkgPVfU-e8O_0-vLfuuhATyXyUfSjhKgi_sVnKn8DJvi-DOXr47oxv_hAX1IwIAkn9JdpRKO_OgG_mpvwts6o8mQcdLhiO8xSoPaUHnyk_PQyzvlJmoqsi9JrmFqOH2Efh6BQ6fToF3wCendiApIafWKUBM3iLodTukb8DorQs-0ni0GvdA8rvzMYLSgdPYoRDRIxxXU5rtLvWk58FQOdeSWIRJnhsWrzSW5zCe7sK7V6X-8Y16il7oAR1mvg9GpAbbe44mB6DgcAlp-F8hpU6V4U1tiVmrSICWai2TIW6P5oC261VlN5FDuDM7vn5HefuMZbr-1mepQYeCSqUdo4JNLKOa91z8FWW0DXDuzrgTrblxelbvhvSvkEMGp9DynSU8FGVOWECmQ-oLDD6LpVPXeumfWUAZIFJ5iHCqc9YUJt_gcDD58hrg6lbgxaRCrkjXDwXoifdSGCnfKU4fnLz6O8Aw82SPMdwHZeR3bzd0YbxQ6imShOUU_obYGxn_WN4jFvhlyGh69m9Zw9WCTgf03CADhSMyTU-DCCb4vOrUoMMcPyW4ob10uWFBbPtb6CG779gqp0YHhjbqSKFoJia6yPq9pMYzOKTTYDG7QpIA4hL3eBA3kmv1R0iCUH-bgcrKuEWmy7SLc3Kw2o7Pbj63FJKjHp_8npv7Dg4rn2zh8mZIyo9veuvClFlDBStzOnA1T9rhkIn0M9teFxvKky4LCo7_JpX4WKPwVTqotHKyC2QlLS04OfIRK4FyOUeKwgS8P3zYfVyFz07zxBTtXjPFt8yskIKUiI2ug-yJ7N1w73RjVfINrwBTX6ajJCe-rTYWuhkeXRRwPATI_Nt0Kxinzm_huRxrFjIxuR731cPLMkzC5ActkFqQp9yPhiMe7dNOSM5Osd_WLDpO5B-SGtNxYFr4hy4uR32b-UL9FlmorBG5Twrh0LBIkGivfk91S9gSohI_p_lVhFvrgE6wqO8YnFfJWiv2AUzrFhIFBRMgJIit6pCYIbeb65xHdLtyBxMYW84Bbwwxa7UG6rNUCfPDnFvIir9qer0_hofWU3w-G-xWmt8mGtmkjpOuX5r768Gth0TVSjJaYT5DlMsCfr-j0jB19KiSCoWnB9FfjrkKIvsN6-AKNdS3AVN8xIF4Tprgu8_vUGlQd3hwHZb3gzyXmJvwaikLuvXFwLQpYHb54XzLbFW5qk4zilng8pHELJNS1TBltlT3-S_pEc_2u_FY4_WiShsZYIlfyNfj5pWqHwxWYw-23VJxBygarVTkv11ayaohx_UHEGycAZP16HThNan7UKFY9lTE7cA9Wjt1u03_a3Skoichded6I5j2ueuhPMpCWtRMwENPVk-b2oPjeBzaYVIIuz9qYgics7ui48uZPlgtcW1DH5ipALAvbksnVYSFQX5uHeTBId39Ow5b26GTV-d98DE4o4LlOLQ5uGhYIABIS5GhaiDrh75k2qy507XQeDtgqYAE, line 1145: TypeError: d is undefined
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61184466/20190721220035198/index.html?e=69&leftOffset=0&topOffset=0&c=GslIdqOcds&t=1&renderingType=2, line 545: ReferenceError: invalid assignment left-hand side
+[Parent 79645, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 79645, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=R346ZFRHHF&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=0il4eF4kPj&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://d9.flashtalking.com/d9core, line 1: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=gP7SOaPkoS&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=CpXsSU2YVD&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=OtWYU8xzht&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript error: https://s0.2mdn.net/ads/richmedia/studio/pv2/61177430/20190721221003385/index.html?e=69&leftOffset=0&topOffset=0&c=rmcqFTYGql&t=1&renderingType=2, line 532: ReferenceError: invalid assignment left-hand side
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13587475_865677710/Banner_300x250/Banner_300x250.js, line 620: TypeError: this.replay_btn is undefined
+JavaScript warning: https://dco-assets.everestads.net/ics-campaign//5031/t/7299/1/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://browser/content/content.js, line 638: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+[Parent 79688, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13587463_1046735684/Billboard/Billboard_970x250.js, line 1100: TypeError: this.replay_btn is undefined
+[Parent 79645, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript warning: https://dco-assets.everestads.net/ics-campaign//5031/t/7298/3/edge_includes/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript warning: https://z.moatads.com/dataxudisplay424185025033/moatad.js#moatClientLevel1=0DzIf2uZcP&moatClientLevel2=XmvxE9Sw4M&moatClientLevel3=WG1NeHE5TmxaWQ&moatClientLevel4=0RpTVnwefi&moatClientSlicer1=Q1MxODY0MzE&moatClientSlicer2=time.is&zMoatExchangeID=CASALE&zMoatDevice=2dt0005&zMoatSite_URL=https%3A%2F%2Ftime.is&zMoatBundleID=UNKNOWN&zMoatDealID=UNKNOWN, line 241: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dataxudisplay424185025033/moatad.js#moatClientLevel1=0DzIf2uZcP&moatClientLevel2=XmvxE9Sw4M&moatClientLevel3=WG1NeHE5TmxaWQ&moatClientLevel4=0RpTVnwefi&moatClientSlicer1=Q1MxODY0MzE&moatClientSlicer2=time.is&zMoatExchangeID=CASALE&zMoatDevice=2dt0005&zMoatSite_URL=https%3A%2F%2Ftime.is&zMoatBundleID=UNKNOWN&zMoatDealID=UNKNOWN, line 241: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dataxudisplay424185025033/moatad.js#moatClientLevel1=0DzIf2uZcP&moatClientLevel2=XmvxE9Sw4M&moatClientLevel3=WG1NeHE5TmxaWQ&moatClientLevel4=0RpTVnwefi&moatClientSlicer1=Q1MxODY0MzE&moatClientSlicer2=time.is&zMoatExchangeID=CASALE&zMoatDevice=2dt0005&zMoatSite_URL=https%3A%2F%2Ftime.is&zMoatBundleID=UNKNOWN&zMoatDealID=UNKNOWN, line 241: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/dataxudisplay424185025033/moatad.js#moatClientLevel1=0DzIf2uZcP&moatClientLevel2=XmvxE9Sw4M&moatClientLevel3=WG1NeHE5TmxaWQ&moatClientLevel4=0RpTVnwefi&moatClientSlicer1=Q1MxODY0MzE&moatClientSlicer2=time.is&zMoatExchangeID=CASALE&zMoatDevice=2dt0005&zMoatSite_URL=https%3A%2F%2Ftime.is&zMoatBundleID=UNKNOWN&zMoatDealID=UNKNOWN, line 241: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 79712, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x11003C,name=PBackground::Msg_DispatchLocalStorageChange) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 79645, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 79645, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Parent 79665, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638545_1320133742/Citibank_Q4_COS_Set01_HTML5_970x250/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638491_1220875287/Citibank_Q4_COS_Set01_HTML5_728x90/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126501877&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdn.fqtag.com/1.25.324-b7c39f1/pixel.js, line 4: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638545_1320133742/Citibank_Q4_COS_Set01_HTML5_970x250/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/crossmediadcm87381835184/moatad.js#moatClientLevel1=23628603&moatClientLevel2=4313726&moatClientLevel3=263438431&moatClientLevel4=126934943&zMoatG=ct=AU&st=&city=0&dma=0&zp=&bw=4&zMoatENV=5980224&zMoatADV=5980224, line 239: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=8372&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is&zMoatSEID=pub-3605257360853185, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=8372&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is&zMoatSEID=pub-3605257360853185, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=8372&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is&zMoatSEID=pub-3605257360853185, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/tubemogul154237275611/moatad.js#moatClientLevel1=700299&moatClientLevel2=2228631&moatClientLevel3=8372&moatClientLevel4=4117649918&moatClientSlicer1=710755&moatClientSlicer2=https://time.is&zMoatSEID=pub-3605257360853185, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=239659&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=239659&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=239659&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/indexexchangegen623794626781/moatad.js#moatClientLevel1=239659&moatClientLevel2=time.is&moatClientLevel3=&moatClientLevel4=&moatClientSlicer1=&moatClientSlicer2=, line 236: Error: WebGL warning: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
+JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638452_1581535270/Citibank_Q4_COS_Set01_HTML5_300x250/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
+JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 

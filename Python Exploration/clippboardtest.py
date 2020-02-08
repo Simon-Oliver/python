@@ -1,6 +1,10 @@
 import pyperclip
 
-tempTxt = pyperclip.paste()
+prev = ""
 
+while True:
+    tempTxt = pyperclip.paste()
+    if(tempTxt != prev):
+        prev = tempTxt
+        print(tempTxt)
 
-print(tempTxt)

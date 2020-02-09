@@ -1348,3 +1348,4 @@ JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, li
 JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
 JavaScript error: https://playtime.tubemogul.com/ad_html_assets/13638452_1581535270/Citibank_Q4_COS_Set01_HTML5_300x250/libs/AdHelper.min.js, line 1: TypeError: this._stage is undefined
 JavaScript error: https://c.amazon-adsystem.com/bao-csm/direct/csm_others.js, line 1: NS_ERROR_ILLEGAL_VALUE: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown

@@ -783,3 +783,58 @@ JavaScript warning: https://z.moatads.com/bonnierdfp429068524616/moatad.js#moatC
 [Child 5691, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
 [Child 5691, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
 *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.error: PushService: 
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+  Failed to drop expired registrations on idle
+  UnknownError
+2019-09-25 01:41:23.721 firefox-bin[5614:493404] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.723 plugin-container[5410:448126] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.725 plugin-container[5425:449703] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.726 plugin-container[5410:448126] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.726 plugin-container[5425:449703] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.726 firefox-bin[5614:493404] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.727 plugin-container[5398:447637] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.727 plugin-container[5398:447637] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.727 plugin-container[5396:447500] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.727 plugin-container[5396:447500] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.728 plugin-container[5397:447527] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.728 plugin-container[5397:447527] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.728 plugin-container[5381:446741] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.728 plugin-container[5381:446741] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.728 plugin-container[5616:493498] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.728 plugin-container[5616:493498] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.729 plugin-container[5618:493637] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.729 plugin-container[5618:493637] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.731 plugin-container[5639:495822] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.731 plugin-container[5639:495822] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.731 plugin-container[5424:449677] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.732 plugin-container[5424:449677] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.732 plugin-container[5641:496052] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.732 plugin-container[5641:496052] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.733 plugin-container[5383:446873] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.733 plugin-container[5383:446873] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:23.755 plugin-container[5617:493524] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:23.755 plugin-container[5617:493524] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.499 firefox-bin[5409:448035] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.499 firefox-bin[5409:448035] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.500 firefox-bin[5638:495731] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.500 firefox-bin[5638:495731] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.500 firefox-bin[5380:446669] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.500 firefox-bin[5380:446669] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.504 firefox-bin[5395:447422] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.504 firefox-bin[5395:447422] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.504 plugin-container[5426:449812] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.504 plugin-container[5426:449812] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.506 plugin-container[5640:495939] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.506 plugin-container[5640:495939] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.507 plugin-container[5382:446767] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.507 plugin-container[5382:446767] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.508 plugin-container[5412:448259] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.508 plugin-container[5412:448259] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.770 firefox-bin[5423:449583] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.770 firefox-bin[5423:449583] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:24.777 plugin-container[5411:448155] HIToolbox: received notification of WindowServer event port death.
+2019-09-25 01:41:24.777 plugin-container[5411:448155] port matched the WindowServer port created in BindCGSToRunLoop
+2019-09-25 01:41:35.751 firefox-bin[5614:6047504] +[NSXPCSharedListener endpointForReply:withListenerName:]: an error occurred while attempting to obtain endpoint for listener 'ClientCallsAuxiliary': Connection interrupted
